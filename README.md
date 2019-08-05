@@ -19,5 +19,4 @@ Also utilized Pandas along with other libraries to clean-up and join data where 
 After scraping and processing data, I decided to narrow focus on NBA champions and runner-ups since 1950 to see how the composition of these teams have evolved since then.
 
 ### Links
-GitHub for Project: https://github.com/davila2345/NBA_WebScraping_Project
 Presentation: https://slides.com/dannyavila-1/deck/live
