@@ -1,6 +1,6 @@
 # Web Scraping Project: The Evolution of NBA Finals Teams
 ### Main Focus: Web Scraping
-I scraped https://wwww.basketball-reference.com using the Selenium library, specifically for pages containing:
+I scraped https://www.basketball-reference.com using the Selenium library, specifically for pages containing:
 - Regular season player data dating back to 1950, including pages with:
     -  per game stats
     -  advanced stats
