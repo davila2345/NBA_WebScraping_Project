@@ -1,4 +1,4 @@
-# Web Scraping Project: The evolution of NBA champions and runner-ups
+# Web Scraping Project: The Evolution of NBA Finals Teams
 ### Main Focus: Web Scraping
 I chose to scrape https://wwww.basketball-reference.com, specifically for pages containing:
 - Regular season player data dating back to 1950, including pages with:
@@ -13,10 +13,11 @@ I chose to scrape https://wwww.basketball-reference.com, specifically for pages 
 -  NBA champions and runner-ups dating back to 1950
 -  Every player bio in NBA history (dating back to 1946)
 
-Also utilized Pandas along with other libraries to clean-up and join data where appropriate.
+### Data Processing
+I primarily used the Pandas library to clean-up and join data where appropriate.
 
 ### Analysis
-After scraping and processing data, I decided to narrow focus on NBA champions and runner-ups since 1950 to see how the composition of these teams have evolved since then.
+I focused on all NBA Finals teams since 1950 to see how these players have evolved in terms of average height and their rate of 3 point attempts. I ultimately weighted the average height of players by win-shares (explanation metric: https://www.basketball-reference.com/about/ws.html).  
 
-### Links
+Full analysis can be found in link below:
 Presentation: https://slides.com/dannyavila-1/deck/live
